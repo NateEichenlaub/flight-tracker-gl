@@ -1,0 +1,11 @@
+#aircraftTableWrapper {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100vh;
+}
+
+.scroll-container {
+  max-height: 100vh;
+  overflow: auto;
+}
