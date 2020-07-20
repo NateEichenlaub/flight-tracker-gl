@@ -9,7 +9,7 @@
     "@turf/along": "^6.0.1",
     "@turf/destination": "^6.0.1",
     "@turf/helpers": "^6.1.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-map-gl": "^5.2.5",
